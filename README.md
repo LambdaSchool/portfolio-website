@@ -46,7 +46,7 @@ _ Watch this walk through video:  https://youtu.be/P2Y9W29kcjs
 		* You can use sites like [https://www.pexels.com/](https://www.pexels.com/) for free images to fill in place holders
 		* Showcase projects you have worked on by providing some information and links to your git hub projects
 - [ ] Implement proper attribution: Attribution is required under the [creative commons license](https://html5up.net/license) that came with the website files you downloaded.  Be sure to provide attribution somewhere in the site.  The templates should already come with attribution found in most footers but double check to be sure.
-- [ ] Host your website for the world to see. Follow the instructions found here [https://pages.github.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
+- [ ] Host your website for the world to see. Follow the instructions found here [https://pages.gigithub.com/](https://pages.github.com/).  Once you have hosted your web page, share it for your peers to see.  This is not a small feat!
 
 ## Stretch
 
